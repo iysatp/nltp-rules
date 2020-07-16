@@ -22,7 +22,7 @@
 * (c) Each week of the regular season teams will play on two different maps in an A/B - C/D - E/F - ... format.
 * (d) B-team will play the first map in games 1 and 3. The B-team format will be AA/BB/AA, CC/DD/CC, etc.
  
-##### *Section IV - Schedule
+##### *Section IV - Schedule*
 * (a) Upon completion of the draft, teams will select their server.
 * (b) The CRC will create a schedule upon selection of servers and prior to week 1 matchups.
 
