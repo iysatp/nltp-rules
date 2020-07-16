@@ -5,28 +5,28 @@
 
 ## Article I - League & Team Structure
 
-##### Section I - League Basics
+##### *Section I - League Basics*
 * (a) The league commissioners for NLTP Season 18 are Poeticalto and IfYouSeekAmy.
 * (b) The league shall consist of 16 teams.
 * (c) There are 7 weeks in the regular season.
 * (d) The first week of the regular season will begin on Tuesday, April 21, 2020.
 
-##### Section II - Team Structure
+##### *Section II - Team Structure*
 * (a) Each team shall have a captain, who is responsible for all signing and trading of players, being responsible for team votes as a representative of his or her team, and     other duties as required.
 * (b) Each team shall have a co-captain, who will be selected by the captain after the draft. The co-captain will be responsible for all duties listed above in the event the captain is not available.
 * (c) Captains will be permitted to change their co-captain whenever they please.
 
-##### Section III - Maps
+##### *Section III - Maps*
 * (a) Season 18 will feature 14 maps, to be voted on by the captains and community.
 * (b) Maps will be chosen by a series of votes prior to week 1.
 * (c) Each week of the regular season teams will play on two different maps in an A/B - C/D - E/F - ... format.
 * (d) B-team will play the first map in games 1 and 3. The B-team format will be AA/BB/AA, CC/DD/CC, etc.
  
-##### Section IV - Schedule
+##### *Section IV - Schedule
 * (a) Upon completion of the draft, teams will select their server.
 * (b) The CRC will create a schedule upon selection of servers and prior to week 1 matchups.
 
-##### Section V - Games
+##### *Section V - Games*
 * (a) Unless otherwise stated in these rules, the following are required group settings for all matches. *(Note: Clicking the competitive settings checkbox will do all of this for you, with the exception of disabling overtime)*
   * (1) Capture limit set to none
   * (2) Time limit set to 10 minutes
@@ -44,12 +44,12 @@
   * (14) Respawn Warnings: Disabled
   * (15) Single World Joiner disabled and set to the appropriate server according to the NLTP server chart
 
-##### Section VI - Rosters
+##### *Section VI - Rosters*
 * (a) Each NLTP franchise will have a team in two leagues, A-Team and B-team. NLTP teams will have no roster cap. Teams must have a minimum of 8 permanent players on their roster at any given time in the season.
 * (b) If the commissioners find that a player is unhappy with their situation due to limited playing time, the CRC will consult with the player’s captain to organize either a trade or provide more playing time.
 
 ## Article II - Roster Changes
-##### Section I - Trades
+##### *Section I - Trades*
 * (a) Trades are submitted by the captain directly to the NLTP Commissioners via a trading form and can be vetoed by the NLTP Commissioners.
 * (b) If a captain is unavailable then their co-captain can make trades on their behalf but only with explicit written permission beforehand.
 * (c) Co-captains are required to use their own names on official forms.
@@ -64,7 +64,7 @@
 * (l) If there is a tie on points across tiers, all tied teams will be placed in the lower tier.
 * (m) The trade deadline will be the Thursday following week 5 games at 9:59:59 PM ET.
  
-##### Section II - Free Agency Pickups
+##### *Section II - Free Agency Pickups*
 * (a) The Basics
   * (1) NLTP teams will use the free agency system if they wish to add a player (or players) to their roster.
   * (2) An NLTP free agent is defined as any player who is registered to play in NLTP, while not playing in MLTP/mLTP.
@@ -121,7 +121,7 @@
   * (2) NLTP players will need to publicly accept or reject an MLTP call-up offer within 72 hours of the call-up being announced by MLTP. If there is no decision before the 72 hours are up, it will be assumed that the call-up was accepted and NLTP will proceed as such.
   * (3) Active NLTP players that are called up to a Majors or Minors team AND actively play in either of the Sun. (Majors) or Mon. (Minors) Games will be ineligible for NLTP B-team and may only finish the current week on their NLTP A-team.
   * (4) Active NLTP players that are loaned to a Majors or Minors team will be eligible to play in NLTP and will be subject to normal NLTP eligibility rules and restrictions.
-##### Section III - Loans Within NLTP
+##### *Section III - Loans Within NLTP*
 * (a) If a team cannot fill a full roster for a week’s game, they may elect to loan a player from another team. 
 * (b) All loans must be approved by a member of the NLTP CRC before the player plays.
   * (1) Failure to acquire approval may result in punishments such as, but not limited to, forfeiture, forced replay and waiver point deduction.
@@ -131,7 +131,7 @@
 * (e) A loaned player may not play for 2 different teams in a single week.
 * (f) Teams loaning a player may be rewarded with waiver points. The total will be determined the NLTP CRC at the time of the loan.
   
-##### Section IV - Drops
+##### *Section IV - Drops*
 * (a) Players taken during the auction draft may be dropped for gross inactivity at any time after week one. Players taken during the snake draft or in free agency will not be eligible to be dropped.
   * (1) Gross inactivity is to be determined on a case by case basis by the NLTP CRC.
   * (2) Players may only be dropped by the team that drafted them.
@@ -140,17 +140,17 @@
 * (d) After conferring with both the captain and the player to be dropped, the NLTP CRC will determine whether the player is to be dropped, held or forcibly traded. If the player is dropped for gross inactivity, the team will be rewarded with the equivalent of half of the player's auction value, rounded down.
 * (e) A player dropped for gross inactivity will be ineligible to be added by any team for the remainder of the season, including the team that dropped them.
 
-##### Section V - Removal From Captaincy
+##### *Section V - Removal From Captaincy*
 * (a) Players may be removed from captaincy by the CRC or willfully step down if they are no longer able to handle their responsibilities as a captain. 
 * (b) If a captain resigns, they will still be allowed to play for their team, but unable to be traded. 
 * (c) In special circumstances, where a captain is removed not by their own choice, the CRC may reassign them to a different team or include them in free agency. 
 
 ## Article III - Draft
-##### Section I - General Draft Information
+##### *Section I - General Draft Information*
 * (a) The NLTP draft will be two parts. The first part will be an auction draft followed by a snake draft.
 * (b) The draft date and time will be announced on /r/NLTP. Captains are expected to arrive early to the draft.
 
-##### Section II - Auction Draft
+##### *Section II - Auction Draft*
 * (a) The nomination order will be randomly assigned.
 * (b) Nominations spots may not be traded.
 * (c) The auction draft will be 4 rounds and will bring teams to 5 total players.
@@ -181,7 +181,7 @@
   * (5) NPCb captains can play no more than 40 minutes of A-team during the regular season unless given specific approval by the Commissioners under extraordinary circumstances.
   * (6) NPCb captains are not eligible for A-team playoffs unless given specific approval by the Commissioners under extraordinary circumstances.
 
-##### Section III - Snake Draft
+##### *Section III - Snake Draft*
 * (a) The snake draft will follow the auction draft after a short break determined at the time of the draft.
 * (b) The snake draft order will be determined by the amount of remaining TagCoins of each team, prorated by their initial balance.
   * (1) The team with the most TagCoins remaining, will be 1st draft pick in the first round.
@@ -194,7 +194,7 @@
 * (e) The draft order would be: C, A, A/D (RNG)
 * (f) The snake draft will continue until every eligible player signed up has been placed on a team.
 
-##### Section IV - Eligibility
+##### *Section IV - Eligibility*
 
 * (a) Players who have signed up for the MLTP draft and are not on an MLTP roster at the end of the draft will be eligible, and automatically entered into, the NLTP Draft.
   * (1) If an overqualified player indicates that they are not available on Mondays for the MLTP draft, they will not be eligible for NLTP. Players qualify for this rule if they meet any of the following criteria for their most recent season of NALTP:
@@ -214,13 +214,13 @@
 * (g) On A-Team, positional restrictions will be enforced for all players that list that they will play only one position ("Offense only" or "Defense only") in their signup form. B-Team players who played more than half of their minutes on A-Team or above in either the current season or their previous season will be restricted to the position they signed up as. B-Team players who had above an 80 positional or total NISH in their previous season will also be restricted to the position they signed up as. For this last case captains may request a waiver from the CRC for unusual or edge cases.
 * (h) If a player's signup indicates that they will not use a microphone, they must be muted during any official NLTP match. Failure to mute may result in the deduction of waiver points or points at the discretion of the CRC.
 
-##### Section V - Dual Eligibility 
+##### *Section V - Dual Eligibility* 
 * (a) Full dual eligibility will be allowed. If a player is called up to an MLTP team, the captain will be given until the next week’s games to decide whether to keep the player on their roster and grant dual eligibility, or to allow the player to play exclusively for the MLTP team and accept 100 WPs as compensation. It is expected that the captain and player communicate to decide the best option for the player and the team, and the decision to play for both teams must be mutual between the player and captain.
 * (b) If applicable, players who are drafted in the Dual Eligible slots during the MLTP and mLTP drafts - but not in any other slots - will be considered fully eligible for NLTP.
 
 ## Article IV - Matches
 
-##### Section I - Match Scheduling
+##### *Section I - Match Scheduling*
 * (a) Matches are scheduled for Tuesday and Wednesday, but can be rescheduled to any day within 48 hours of the default game time with notification of the CRC.
 * (b) A points system will be used alongside a team's record to determine league standings.
   * (1) 3 points are assigned for a win
@@ -235,7 +235,7 @@
 * (h) If teams do not finalize the match 24 hours before the match starts, it will be assumed that the match will be taking place at the default time.
 * (i) If a team does not schedule their match at least 24 hours before the default game time, they will be allowed to reschedule up until 1 hour before default game time. A captain must make a post to the NLTP subreddit detailing the reschedule.
 
-##### Section II - Match Server Logistics
+##### *Section II - Match Server Logistics*
 * (a) Suggested home servers will be assigned by the NLTP CRC at the time of the offer to be a captain.
 * (b) Valid home servers for Season 18 include the following North American servers: New York, Toronto, Atlanta, Chicago, Dallas, Los Angeles, San Francisco and Seattle.
 * (c) Teams may be allowed to change their home servers at the beginning of the season if there are extenuating circumstances. Captains will need to discuss this with the CRC.
@@ -243,7 +243,7 @@
 * (e) Server selection will be based on the Server Chart. Captains may mutually agree to play on different servers. If the captains are unable to come to a mutual agreement, the CRC may determine game server according to the teams' declared home servers.
 * (f) Matches that are played on two servers (according to the Server Chart or agreement between captains) will be in an A/B/B/A format. Example: New York/Chicago goes NY/CHI/CHI/NY, or CHI/NY/NY/CHI.
 
-##### Section III - Match Rules
+##### *Section III - Match Rules*
 * (a) Each match consists of two separate games, each of which is 20 minutes long. Each game is two 10 minute halves. In cases of split servers, the teams will alternate servers for each half. Games which end in a tie will go into overtime.
 * (b) At the conclusion of the match, screenshots/tagpro.eu are to be posted to the wire thread. To preserve statistics, tagpro.eu links need to be submitted after the games under the "Captain Center" tab of TagProLeague (remember to submit all relevant statistics, including those of a timeout or overtime). If these methods are not followed, statistics will not be kept, and penalties will be applied.
 * (c) Teams are discouraged from taking overly long between halves. However, problems arise and halves may start late. In this case, the team that is ready to start is highly encouraged to keep their complaints to a minimum - see the etiquette section for more information. If it takes over 15 minutes, the team delaying forfeits the entire game.
@@ -251,7 +251,7 @@
 * (e) Captains and co-captains that are not actively playing in their A-team match are allowed to listen in only to A-team communication while spectating the game. They must remain muted.
 * (f) Given NLTP's deviation from timeouts during competitive matches, any player wishing to serve as a live substitute can spectate the game and listen in to the A-team communication, but must remain muted until they enter the game. This applies only to live substitutions.
 
-##### Section IV - Overtime
+##### *Section IV - Overtime*
 * (a) Any game that ends in a tie will go to overtime.
 * (b) The overtime period will be played with "Golden Cap" settings, which are the same as regular time with the following two changes:
   * (1) Time will be set to 20 minutes.
@@ -259,7 +259,7 @@
 * (c) Overtime periods will be played until a winner is found.
 * (d) Overtime stats will not be counted towards regular season stats. They are submitted for scoring purposes only and are submitted by checking the "overtime" box when submitting stats. If there are multiple overtime periods, please use the "timeout" checkbox to add more periods.
 
-##### Article V - Substitutions & Timeouts
+##### *Article V - Substitutions & Timeouts*
 * (a) Timeouts are no longer permitted in NLTP Matches, except during 2 specific cases.
   * (1) If players do not make it into the game from the joiner page after the group leader launches the half, timeout may be called before the game begins and the game will go back to group to retry the launch.
   * (2) If 2 or more players from the same team lag out at the same time, timeout may be called.
@@ -277,7 +277,7 @@
   * (5) If a player is unable to leave the match, an inactive fifth ball may remain in play, provided it is not in a spot that disrupts play. If the inactive ball is in such a location for an extensive amount of time, the four active players must attempt to move the inactive player to a less disruptive spot. Teams with a fifth inactive ball that disrupts play may be assessed a penalty determined by the commissioners.
 
 ## Article VI - Cheating
-##### Section I - Cheating
+##### *Section I - Cheating*
 * (a) Cheating is strictly prohibited.
 * (b) Any player caught cheating will be dealt with on a case-by-case basis as determined by the NLTP Commissioners. The more severe the cheating, the more severe the punishment. NLTP Commissioners may also take any other actions (whether related to cheating or not) which they feel are for the good of the league.
   * (1) Certain scripts are prohibited on any production server and are illegal in both public, private, and league matches. If a player uses a prohibited script on a production server, their name will be forwarded to the NLTP Commissioners to determine a punishment determined on a case-by-case basis.
@@ -287,16 +287,16 @@
   * (2) Impersonation: All players will be expected to play under the registered name that they used in their signup. Please take this into account when submitting your signup. Failure to comply when requested may result in penalties, including but not limited to team WP deductions, team point deductions and suspension from the league.
 * (e) Switching teams to get a better start position is allowed; however, players are prohibited from refreshing before a half starts, unless it is completely needed in order to fix a black screen or some other malfunction.
 
-##### Section II - Approved (Legal) Scripts
+##### *Section II - Approved (Legal) Scripts*
 * (a) Games are played with the "no scripts" option in groups and therefore no scripts are allowed.
 
-##### Section III - Prohibited (Illegal) Scripts
+##### *Section III - Prohibited (Illegal) Scripts*
 * (a) All scripts not found in the "no scripts" group option.
 * (b) Bomb/boost/powerup timers are strictly prohibited.
 * (c) Bots are strictly prohibited.
 
 ## Article VII - Etiquette
-##### Section I - Etiquette
+##### *Section I - Etiquette*
 * (a) This is a fun game, and a fun league. This is not very serious, we are just out there to have a good time.
 * (b) Any hate speech will result in an immediate ban from the season.
 * (c) Players are encouraged to talk up their own skills, and even be arrogant about it, but are not allowed to put down other players or teams unless it is clear it is a joke.
@@ -304,7 +304,7 @@
 * (e) Teams are subject to punishment if their players or captains partake in any of the following: Unnecessary spam to /r/NLTP or captains' modmail or spam to Discord channels.
 * (f) There is a catch-all "Don't Be a Dick" rule, of which any number of things it can encompass. Violations of the "DBAD" rule will be dealt with on a case-by-case basis as determined by the Rules Committee.
 
-##### Section II - In-game communication
+##### *Section II - In-game communication*
 * (a) Group chat will not be allowed during matches unless required (e.g., a call for back to group).
   * (1) Violation of this rule will result in a warning and may result in a ban or team forfeiture if the problem persists or is deemed unruly by the CRC.
 * (b) Captains may allow any number of players into the group link for a match. However, if this becomes an issue, the opposing captain may ask for non-essential players to leave.
@@ -315,7 +315,7 @@
    * Member(s) of the CRC
 * (c) CRC members have the right to enter any official NLTP match group if requested. 
 
-##### Section III - Manipulation
+##### *Section III - Manipulation*
 * (a) Players determined to be manipulating their value prior to the draft may be removed from the draft and/or subject to punishment in NALTP.
   * (1) Manipulation includes, but is not limited to: lying about availability, lying about ping or location, providing any other false information in signups, providing captains with different information, or making concerted efforts to land on a specific team.
   * (2) If a captain asks a player if they want to play for them, the player is allowed to say no. This includes interest forms, direct messages, or any other form of communication.
@@ -325,7 +325,7 @@
   * (2) If there is a problem with a team, you can always ask for a trade and explain your reasoning to the captain. However, you signed up to participate in the league regardless of which captain drafts you and which team you end up on.
 
 ## Article VIII - Playoffs
-##### Section I - Teams and Seeding
+##### *Section I - Teams and Seeding*
 * (a) The number of playoff teams for Season 18 is TBD.
 * (b) Seeding is determined at the end of the regular season games based on standings throughout the league.
 * (c) Seeding will be based on overall record for the season.
@@ -348,7 +348,7 @@
   * (6) A 5-minute OFM round-robin tournament with one player from each team. The player must be eligible for that team’s league (i.e., an A-teamer cannot OFM for a B-team matchup), and the captain will be allowed to choose the player.
 * (c) If the seeding of one team is determined in a three-or-more team tiebreaker but other seeds aren't, tiebreak rules continue as they are and do not reset with all remaining teams.
 
-##### Section III - Maps
+##### *Section III - Maps*
 * (a) Maps will be chosen by a Pick/Ban system detailed in the table and rules below:
   * (1) Following the regular season a vote will be held among the captains to narrow the pool of maps from 14 to 7.
   * (2) There will be separate votes for A- and B-Team.
@@ -365,7 +365,7 @@ Round | Team 1 | Team 2
 3 | Pick map/game | Pick map/game
 4 | Pick order of colors *(pick Red or Blue for games 1/3/5/7)* | --- 
 
-##### Section IV - Playoff Rounds and Match Structure
+##### *Section IV - Playoff Rounds and Match Structure*
 * (a) Rounds
   * (1) First round of 8 teams (quarterfinals) - "Equidistant Eight."
   * (2) Second round of 4 teams (semifinals) - "Foci Four."
@@ -394,7 +394,7 @@ Game | Map | Team 1 Color | Team 2 Color
 
 \**If Necessary*
 
-##### Section V - Eligibility Requirements
+##### *Section V - Eligibility Requirements*
 * (a) Anyone on a team's roster, except for an NPCb captain, is eligible to play on A-team.
 * (b) If a team's A-team and B-team are both in the playoffs, players who have played more than 10 minutes in the A-team match are ineligible for B-team.
 * (c) If, at the beginning of the week, a team's A-team is not in playoff contention but its B-team is, the top four players in A-team minutes during the regular season are ineligible for B-team. This includes players who were called up to MLTP. Commissioners should notify captains with a list of their ineligible players at the end of the regular season.
@@ -404,7 +404,7 @@ Game | Map | Team 1 Color | Team 2 Color
 * (g) After week 4, the four players who have played the most minutes on their A-team will not be eligible to play B-team unless the CRC grants a waiver. If more than four players are determined to be A-team by virtue of minutes, then the captain will declare the fourth player ineligible for B-team from the players who have the least amount of A-team minutes from the eligible group. Captains can request a waiver to replace a player in the top four minutes with another player if they intend for that player to be the A-team starter moving forward. Examples may include, but are not limited to, a free agent pick up, a player who was unavailable in the beginning weeks of the season, or a player who has won the starting spot late in the season.
 
 ## Article IX - Statistics
-##### Section I - TagPro Analytics and TagPro League (TPL)
+##### *Section I - TagPro Analytics and TagPro League (TPL)*
 * (a) TagPro League
   * (1) Statistics for all leagues are kept on TagPro League.
   * (2) Each captain will be given access to the "Captain's Hub" of TPL where they will be able to submit stats for each match.
@@ -419,7 +419,7 @@ Game | Map | Team 1 Color | Team 2 Color
 * (f) If at any point a half is played 3v4, or if the game is determined noncompetitive by the CRC, it runs the risk of being thrown out statistically. This is under the discretion of the CRC.
 
 ## Article X - Votes & Rule Changes
-##### Section I - Votes
+##### *Section I - Votes*
 * (a) Voting on official league business will be done via the captains’ group chat (a private discord channel) for most issues, and via private message to the NLTP commissioners on sensitive issues.
 * (b) Only NLTP captains, or co-captains in the event the captain is unavailable, are allowed to formally vote on issues.
 * (c) The people who will be able to access the captains’ group chat will be the following:
@@ -429,7 +429,7 @@ Game | Map | Team 1 Color | Team 2 Color
   * (4) NLTP Co-Captains (only in the event that a captain is unavailable)
 * (d) In the event that a Captain is not available and a Co-Captain is forced to talk/vote, they will need to remember that their message is the official representation for their team - and their captain is responsible for any comments or votes that their vice-captain takes while representing them.
 
-##### Section II - Rule Changes
+##### *Section II - Rule Changes*
 * (a) New rules can be introduced when voted on by the rules committee.
 * (b) The rules committee consists of NLTP Commissioners and 3 additional members selected by the committee.
   * (1) The NLTP rules committee members are Poeticalto, WRIG, IfYouSeekAmy, NameLEss, and SirCleJerk.
@@ -443,12 +443,12 @@ Game | Map | Team 1 Color | Team 2 Color
 * (e) If any member of the rules committee is personally involved or their team is involved in a dispute that needs a ruling - they may be forced to recuse themselves from the Rules Committee discussions, and subsequent vote. The rules committee can, at their discretion, question these recused members if they have inquiries during their investigation.
 * (f) NLTP administrative duties will be delegated to a commissioner or rules committee member to accomplish during the season. The member may do the required tasks themselves, seek and direct volunteers in doing these tasks, or a mix, as they see fit. Members may make administrative rules within the spirit of the NLTP rules to help them accomplish these tasks efficiently without a vote of the rules committee. Members are the sole point of contact for their delegated duties and are responsible for seeing them completed in a timely manner.
 
-##### Section III - Vote of Non-Confidence
+##### *Section III - Vote of No-Confidence*
 * (a) At any point in the season, a captain will be allowed to formally request a vote of no confidence for a CRC member. If the request is seconded by another captain, a vote will be held.
   * (1) If at least 75% of captains vote in favor of the CRC member’s removal, the CRC member’s position will be voted on by the remaining four CRC members. If 3 of the remaining CRC members vote in favor of removing the CRC member, he/she will be removed from the CRC.
  
 ## Article XI - NLTP B-Team
-##### Section I - General
+##### *Section I - General*
 * (a) The NLTP B-team is a direct affiliate of the NLTP A-team. It will have the same team name and abbreviation to avoid confusion.
 * (b) Each NLTP team will field teams for both A-team and B-team matches.
 * (c) B-Team matches will consist of three 20-minute games played on two maps. The map for the third game will be the same as the map for the first game.
@@ -461,8 +461,7 @@ Game | Map | Team 1 Color | Team 2 Color
 * (i) NLTP B-team matches are encouraged to take place on Wednesday evenings.
 * (j) Point deduction, server agreement, rescheduling, and all other rules that apply to NLTP A-team also apply to NLTP B-team.
 * (k) If a team's regular A-team player is unavailable for a week and is replaced by a B-team player, that B-team player will be eligible to play on both A-team and B-team for that week.
-* (1) If the regular A-team player plays on B-team that week, the B-team sub is not eligible to play B-Team. Dual eligibility will not be allowed during week 1.
-* (2) After week 4, the four players who have played the most minutes on their A-team will not be eligible to play B-team unless the CRC grants a waiver. If more than four players are determined to be A-team by virtue of minutes, then the captain will declare the fourth player ineligible for B-team from the players who have the least amount of A-team minutes from the eligible group. Captains can request a waiver to replace a player in the top four minutes with another player if they intend for that player to be the A-team starter moving forward. Examples may include, but are not limited to, a free agent pick up, a player who was unavailable in the beginning weeks of the season, or a player who has won the starting spot late in the season.
+ * (1) If the regular A-team player plays on B-team that week, the B-team sub is not eligible to play B-Team. Dual eligibility will not be allowed during week 1.
 
 ## Article XII - Appendix
 * (a) Teams are subject to punishment if their players or captains partake in any of the following: violation of the DBAD rule, spam on Discord, spam on Reddit, or any other action that break the NLTP rules.  
