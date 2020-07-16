@@ -1,4 +1,4 @@
-###### Definitions
+###### *Definitions*
 * *Half* = 10 minutes of an NLTP Game.
 * *Game* = 20 minutes (two halves) of a weekly NLTP Matchup.
 * *Match* = 40 minutes (two games) of a weekly NLTP A Matchup, and/or 60 minutes (three games) of a weekly NLTP B Matchup.
