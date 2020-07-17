@@ -437,12 +437,12 @@ Round | Team 1 | Team 2
 Game | Map | Team 1 Color | Team 2 Color
 ------------ | ------------- | ------------- | -------------
 1 | Map 1 | Red | Blue
-2 | Map 1 | Red | Blue
-3 | Map 1 | Red | Blue
-4 | Map 1 | Red | Blue
-5*| Map 1 | Red | Blue
-6* | Map 1 | Red | Blue
-7* | Map 1 | Red | Blue
+2 | Map 2 | Red | Blue
+3 | Map 3 | Red | Blue
+4 | Map 4 | Red | Blue
+5*| Map 5 | Red | Blue
+6* | Map 6 | Red | Blue
+7* | Map 7 | Red | Blue
 
 <sup>\**If Necessary*</sup>
 
