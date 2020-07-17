@@ -239,12 +239,12 @@
   * (1) The team with the most TagCoins remaining, will be 1st draft pick in the first round.
   * (2) Ties will be resolved using a random generator.
   * (3) Proration example:
-* (a) Captain A begins with 100 TCs and ends with 6 TCs, or 6 pro-rated TCs.
-* (b) Captain B begins with 100 TCs and ends with 0 TCs, or 0 pro-rated TCs.
-* (c) Captain C begins with 80 TCs and ends with 6 TCs, or 7.5 pro-rated TCs (100/80*6)
-* (d) Captain D begins with 80 TCs and ends with 0 TCs, or 0 pro-rated TCs
-* (e) The draft order would be: C, A, A/D (RNG)
-* (f) The snake draft will continue until every eligible player signed up has been placed on a team.
+    * Captain A begins with 100 TCs and ends with 6 TCs, or 6 pro-rated TCs.
+    * Captain B begins with 100 TCs and ends with 0 TCs, or 0 pro-rated TCs.
+    * Captain C begins with 80 TCs and ends with 6 TCs, or 7.5 pro-rated TCs (100/80*6)
+    * Captain D begins with 80 TCs and ends with 0 TCs, or 0 pro-rated TCs
+    * The draft order would be: C, A, D, B
+* (c) The snake draft will continue until every eligible player signed up has been placed on a team.
 
 ##### *Section IV - Eligibility*
 
