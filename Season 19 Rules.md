@@ -444,7 +444,7 @@ Game | Map | Team 1 Color | Team 2 Color
 6* | Map 1 | Red | Blue
 7* | Map 1 | Red | Blue
 
-\**If Necessary*
+<sup>\**If Necessary*</sup>
 
 ##### *Section V - Eligibility Requirements*
 * (a) Anyone on a team's roster, except for an NPCb captain, is eligible to play on A-team.
