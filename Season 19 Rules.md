@@ -78,7 +78,7 @@
 * (b) The CRC will create a schedule upon selection of servers and prior to week 1 matchups.
 
 ##### *Section V - Games*
-* (a) Unless otherwise stated in these rules, the following are required group settings for all matches. *(Note: Clicking the competitive settings checkbox will do all of this for you, with the exception of disabling overtime)*
+* (a) Unless otherwise stated in these rules, the following are required group settings for all matches. 
   * (1) Capture limit set to none
   * (2) Time limit set to 10 minutes
   * (3) Overtime disabled
@@ -94,6 +94,8 @@
   * (13) Userscripts: Disabled
   * (14) Respawn Warnings: Disabled
   * (15) Single World Joiner disabled and set to the appropriate server according to the NLTP server chart
+  
+  <sup>*(Note: Clicking the competitive settings checkbox will do all of this for you, with the exception of disabling overtime)*</sup>
 
 ##### *Section VI - Rosters*
 * (a) Each NLTP franchise will have a team in two leagues, A-Team and B-team. NLTP teams will have no roster cap. Teams must have a minimum of 8 permanent players on their roster at any given time in the season.
