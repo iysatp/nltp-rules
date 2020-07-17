@@ -52,7 +52,7 @@
 ###### *Definitions*
 * *Half* = 10 minutes of an NLTP Game.
 * *Game* = 20 minutes (two halves) of a weekly NLTP Matchup.
-* *Match* = 40 minutes (two games) of a weekly NLTP A Matchup, and/or 60 minutes (three games) of a weekly NLTP B Matchup.
+* *Match* = 40 minutes (two games) of a weekly NLTP A Matchup and/or 60 minutes (three games) of a weekly NLTP B Matchup.
 
 ## Article I - League & Team Structure
 
@@ -123,7 +123,7 @@
   * (4) Players may register as a free agent using a form on the sidebar of /r/NLTP.
 * (b) Free Agency Open Period / Weekly Timeline
   * (1) The first free agency period will open following the third week of NLTP games.
-  * (2) There will be three weeks of standard free agency: after weeks 3, 4, and 5.
+  * (2) There will be three weeks of standard free agency: after weeks 3, 4 and 5.
   * (3) The deadline for each week's free agent signups will be Wednesday at 9:59:59 PM Eastern.
   * (4) Waiver point totals will be finalized and frozen Thursday night each week at 8:59:59 PM Eastern (or up to three hours later, depending on the team’s tiered trade deadline). Trades involving WP made after this deadline will not be processed until after the agency period closes.
   * (5) Bidding will open Thursday night upon the finalization of WP totals.
@@ -482,7 +482,7 @@ Game | Map | Team 1 Color | Team 2 Color
 ##### *Section II - Rule Changes*
 * (a) New rules can be introduced when voted on by the rules committee.
 * (b) The rules committee consists of NLTP Commissioners and 3 additional members selected by the committee.
-  * (1) The NLTP rules committee members are Poeticalto, WRIG, IfYouSeekAmy, NameLEss, and SirCleJerk.
+  * (1) The NLTP rules committee members are Sir Cle Jerk, NameLEss and Activ.
 * (c) A rules committee decision can be overturned by 2/3 of the captains.
   * (1) Captains personally involved, or whose team is involved, in a contested veto, will be forced to recuse themselves from voting.
   * (2) Punishments, as they are commissioner-specific rulings, cannot be overturned by the captains.
