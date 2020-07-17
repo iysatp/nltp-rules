@@ -31,23 +31,21 @@
   - [*Section II - Approved (Legal) Scripts*](#section-ii---approved-legal-scripts) 
   - [*Section III - Prohibited (Illegal) Scripts*](#section-iii---prohibited-illegal-scripts) 
 - [Article VII - Etiquette](#article-vii---etiquette) 
-  - [*Section I - Etiquette*](#section-i---etiquette) 
+  - [*Section I - General*](#section-i---general) 
   - [*Section II - In-game communication*](#section-ii---in-game-communication) 
   - [*Section III - Manipulation*](#section-iii---manipulation) 
 - [Article VIII - Playoffs](#article-viii---playoffs) 
   - [*Section I - Teams and Seeding*](#section-i---teams-and-seeding) 
-- [Section II - Tiebreakers](#section-ii---tiebreakers) 
+  - [Section II - Tiebreakers](#section-ii---tiebreakers) 
   - [*Section III - Maps*](#section-iii---maps) 
   - [*Section IV - Playoff Rounds and Match Structure*](#section-iv---playoff-rounds-and-match-structure) 
   - [*Section V - Eligibility Requirements*](#section-v---eligibility-requirements) 
 - [Article IX - Statistics](#article-ix---statistics) 
-  - [*Section I - TagPro Analytics and TagPro League (TPL)*](#section-i---tagpro-analytics-and-tagpro-league-tpl) 
 - [Article X - Votes & Rule Changes](#article-x---votes--rule-changes) 
   - [*Section I - Votes*](#section-i---votes) 
   - [*Section II - Rule Changes*](#section-ii---rule-changes) 
   - [*Section III - Vote of No-Confidence*](#section-iii---vote-of-no-confidence) 
 - [Article XI - NLTP B-Team](#article-xi---nltp-b-team) 
-  - [*Section I - General*](#section-i---general) 
 - [Article XII - Appendix](#article-xii---appendix) 
 
 
@@ -349,7 +347,7 @@
 * (c) Bots are strictly prohibited.
 
 ## Article VII - Etiquette
-##### *Section I - Etiquette*
+##### *Section I - General*
 * (a) This is a fun game, and a fun league. This is not very serious, we are just out there to have a good time.
 * (b) Any hate speech will result in an immediate ban from the season.
 * (c) Players are encouraged to talk up their own skills, and even be arrogant about it, but are not allowed to put down other players or teams unless it is clear it is a joke.
@@ -457,7 +455,6 @@ Game | Map | Team 1 Color | Team 2 Color
 * (g) After week 4, the four players who have played the most minutes on their A-team will not be eligible to play B-team unless the CRC grants a waiver. If more than four players are determined to be A-team by virtue of minutes, then the captain will declare the fourth player ineligible for B-team from the players who have the least amount of A-team minutes from the eligible group. Captains can request a waiver to replace a player in the top four minutes with another player if they intend for that player to be the A-team starter moving forward. Examples may include, but are not limited to, a free agent pick up, a player who was unavailable in the beginning weeks of the season, or a player who has won the starting spot late in the season.
 
 ## Article IX - Statistics
-##### *Section I - TagPro Analytics and TagPro League (TPL)*
 * (a) TagPro League
   * (1) Statistics for all leagues are kept on TagPro League.
   * (2) Each captain will be given access to the "Captain's Hub" of TPL where they will be able to submit stats for each match.
@@ -501,7 +498,6 @@ Game | Map | Team 1 Color | Team 2 Color
   * (1) If at least 75% of captains vote in favor of the CRC member’s removal, the CRC member’s position will be voted on by the remaining four CRC members. If 3 of the remaining CRC members vote in favor of removing the CRC member, he/she will be removed from the CRC.
  
 ## Article XI - NLTP B-Team
-##### *Section I - General*
 * (a) The NLTP B-team is a direct affiliate of the NLTP A-team. It will have the same team name and abbreviation to avoid confusion.
 * (b) Each NLTP team will field teams for both A-team and B-team matches.
 * (c) B-Team matches will consist of three 20-minute games played on two maps. The map for the third game will be the same as the map for the first game.
