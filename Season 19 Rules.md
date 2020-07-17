@@ -69,7 +69,8 @@
 * (b) Each team shall have a co-captain, who will be selected by the captain after the draft. The co-captain will be responsible for all duties listed above in the event the captain is not available.
 * (c) Captains will be permitted to change their co-captain whenever they please.
 
-##### *Section III - Maps** (a) Season 18 will feature 14 maps, to be voted on by the captains and community.
+##### *Section III - Maps* 
+* (a) Season 18 will feature 14 maps, to be voted on by the captains and community.
 * (b) Maps will be chosen by a series of votes prior to week 1.
 * (c) Each week of the regular season teams will play on two different maps in an A/B - C/D - E/F - ... format.
 * (d) B-team will play the first map in games 1 and 3. The B-team format will be AA/BB/AA, CC/DD/CC, etc.
