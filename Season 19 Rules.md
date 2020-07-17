@@ -1,53 +1,55 @@
 ## Table of Contents
 
-- [Article I - League & Team Structure](#article-i---league--team-structure)
-  - [*Section I - League Basics*](#section-i---league-basics)
-  - [*Section II - Team Structure*](#section-ii---team-structure)
-  - [*Section III - Maps*](#section-iii---maps)
-  - [*Section IV - Schedule*](#section-iv---schedule)
-  - [*Section V - Games*](#section-v---games)
-  - [*Section VI - Rosters*](#section-vi---rosters)
-- [Article II - Roster Changes](#article-ii---roster-changes)
-  - [*Section I - Trades*](#section-i---trades)
-  - [*Section II - Free Agency Pickups*](#section-ii---free-agency-pickups)
-  - [*Section III - Loans Within NLTP*](#section-iii---loans-within-nltp)
-  - [*Section IV - Drops*](#section-iv---drops)
-  - [*Section V - Removal From Captaincy*](#section-v---removal-from-captaincy)
-- [Article III - Draft](#article-iii---draft)
-  - [*Section I - General Draft Information*](#section-i---general-draft-information)
-  - [*Section II - Auction Draft*](#section-ii---auction-draft)
-  - [*Section III - Snake Draft*](#section-iii---snake-draft)
-  - [*Section IV - Eligibility*](#section-iv---eligibility)
-  - [*Section V - Dual Eligibility*](#section-v---dual-eligibility)
-- [Article IV - Matches](#article-iv---matches)
-  - [*Section I - Match Scheduling*](#section-i---match-scheduling)
-  - [*Section II - Match Server Logistics*](#section-ii---match-server-logistics)
-  - [*Section III - Match Rules*](#section-iii---match-rules)
-  - [*Section IV - Overtime*](#section-iv---overtime)
-  - [*Article V - Substitutions & Timeouts*](#article-v---substitutions--timeouts)
-- [Article VI - Cheating](#article-vi---cheating)
-  - [*Section I - Cheating*](#section-i---cheating)
-  - [*Section II - Approved (Legal) Scripts*](#section-ii---approved-legal-scripts)
-  - [*Section III - Prohibited (Illegal) Scripts*](#section-iii---prohibited-illegal-scripts)
-- [Article VII - Etiquette](#article-vii---etiquette)
-  - [*Section I - Etiquette*](#section-i---etiquette)
-  - [*Section II - In-game communication*](#section-ii---in-game-communication)
-  - [*Section III - Manipulation*](#section-iii---manipulation)
-- [Article VIII - Playoffs](#article-viii---playoffs)
-  - [*Section I - Teams and Seeding*](#section-i---teams-and-seeding)
-- [Section II - Tiebreakers](#section-ii---tiebreakers)
-  - [*Section III - Maps*](#section-iii---maps)
-  - [*Section IV - Playoff Rounds and Match Structure*](#section-iv---playoff-rounds-and-match-structure)
-  - [*Section V - Eligibility Requirements*](#section-v---eligibility-requirements)
-- [Article IX - Statistics](#article-ix---statistics)
-  - [*Section I - TagPro Analytics and TagPro League (TPL)*](#section-i---tagpro-analytics-and-tagpro-league-tpl)
-- [Article X - Votes & Rule Changes](#article-x---votes--rule-changes)
-  - [*Section I - Votes*](#section-i---votes)
-  - [*Section II - Rule Changes*](#section-ii---rule-changes)
-  - [*Section III - Vote of No-Confidence*](#section-iii---vote-of-no-confidence)
-- [Article XI - NLTP B-Team](#article-xi---nltp-b-team)
-  - [*Section I - General*](#section-i---general)
-- [Article XII - Appendix](#article-xii---appendix)
+
+- <sup>[Article I - League & Team Structure](#article-i---league--team-structure) </sup>
+  - <sup>[*Section I - League Basics*](#section-i---league-basics) </sup>
+  - <sup>[*Section II - Team Structure*](#section-ii---team-structure) </sup>
+  - <sup>[*Section III - Maps*](#section-iii---maps) </sup>
+  - <sup>[*Section IV - Schedule*](#section-iv---schedule) </sup>
+  - <sup>[*Section V - Games*](#section-v---games) </sup>
+  - <sup>[*Section VI - Rosters*](#section-vi---rosters) </sup>
+- <sup>[Article II - Roster Changes](#article-ii---roster-changes) </sup>
+  - <sup>[*Section I - Trades*](#section-i---trades) </sup>
+  - <sup>[*Section II - Free Agency Pickups*](#section-ii---free-agency-pickups) </sup>
+  - <sup>[*Section III - Loans Within NLTP*](#section-iii---loans-within-nltp) </sup>
+  - <sup>[*Section IV - Drops*](#section-iv---drops) </sup>
+  - <sup>[*Section V - Removal From Captaincy*](#section-v---removal-from-captaincy) </sup>
+- <sup>[Article III - Draft](#article-iii---draft) </sup>
+  - <sup>[*Section I - General Draft Information*](#section-i---general-draft-information) </sup>
+  - <sup>[*Section II - Auction Draft*](#section-ii---auction-draft) </sup>
+  - <sup>[*Section III - Snake Draft*](#section-iii---snake-draft) </sup>
+  - <sup>[*Section IV - Eligibility*](#section-iv---eligibility) </sup>
+  - <sup>[*Section V - Dual Eligibility*](#section-v---dual-eligibility) </sup>
+- <sup>[Article IV - Matches](#article-iv---matches) </sup>
+  - <sup>[*Section I - Match Scheduling*](#section-i---match-scheduling) </sup>
+  - <sup>[*Section II - Match Server Logistics*](#section-ii---match-server-logistics) </sup>
+  - <sup>[*Section III - Match Rules*](#section-iii---match-rules) </sup>
+  - <sup>[*Section IV - Overtime*](#section-iv---overtime) </sup>
+  - <sup>[*Article V - Substitutions & Timeouts*](#article-v---substitutions--timeouts) </sup>
+- <sup>[Article VI - Cheating](#article-vi---cheating) </sup>
+  - <sup>[*Section I - Cheating*](#section-i---cheating) </sup>
+  - <sup>[*Section II - Approved (Legal) Scripts*](#section-ii---approved-legal-scripts) </sup>
+  - <sup>[*Section III - Prohibited (Illegal) Scripts*](#section-iii---prohibited-illegal-scripts) </sup>
+- <sup>[Article VII - Etiquette](#article-vii---etiquette) </sup>
+  - <sup>[*Section I - Etiquette*](#section-i---etiquette) </sup>
+  - <sup>[*Section II - In-game communication*](#section-ii---in-game-communication) </sup>
+  - <sup>[*Section III - Manipulation*](#section-iii---manipulation) </sup>
+- <sup>[Article VIII - Playoffs](#article-viii---playoffs) </sup>
+  - <sup>[*Section I - Teams and Seeding*](#section-i---teams-and-seeding) </sup>
+- <sup>[Section II - Tiebreakers](#section-ii---tiebreakers) </sup>
+  - <sup>[*Section III - Maps*](#section-iii---maps) </sup>
+  - <sup>[*Section IV - Playoff Rounds and Match Structure*](#section-iv---playoff-rounds-and-match-structure) </sup>
+  - <sup>[*Section V - Eligibility Requirements*](#section-v---eligibility-requirements) </sup>
+- <sup>[Article IX - Statistics](#article-ix---statistics) </sup>
+  - <sup>[*Section I - TagPro Analytics and TagPro League (TPL)*](#section-i---tagpro-analytics-and-tagpro-league-tpl) </sup>
+- <sup>[Article X - Votes & Rule Changes](#article-x---votes--rule-changes) </sup>
+  - <sup>[*Section I - Votes*](#section-i---votes) </sup>
+  - <sup>[*Section II - Rule Changes*](#section-ii---rule-changes) </sup>
+  - <sup>[*Section III - Vote of No-Confidence*](#section-iii---vote-of-no-confidence) </sup>
+- <sup>[Article XI - NLTP B-Team](#article-xi---nltp-b-team) </sup>
+  - <sup>[*Section I - General*](#section-i---general) </sup>
+- <sup>[Article XII - Appendix](#article-xii---appendix) </sup>
+
 
 ###### *Definitions*
 * *Half* = 10 minutes of an NLTP Game.
