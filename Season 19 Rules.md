@@ -170,8 +170,9 @@
 * (h) NLTP Specific Instructions
   * (1) NLTP players can reject being signed onto an MLTP team if they think it is in their best interest. Please refer to MLTP’s rules about rejecting callup offers and future eligibility. 
   * (2) NLTP players will need to publicly accept or reject an MLTP call-up offer within 72 hours of the call-up being announced by MLTP. If there is no decision before the 72 hours are up, it will be assumed that the call-up was accepted and NLTP will proceed as such.
-  * (3) Active NLTP players that are called up to a Majors or Minors team AND actively play in either of the Sun. (Majors) or Mon. (Minors) Games will be ineligible for NLTP B-team and may only finish the current week on their NLTP A-team.
-  * (4) Active NLTP players that are loaned to a Majors or Minors team will be eligible to play in NLTP and will be subject to normal NLTP eligibility rules and restrictions.
+  * (3) Active NLTP players that are called up without Dual Eligibility to a Majors or Minors team AND actively play in either of the Sun. (Majors) or Mon. (Minors) Games will be ineligible for NLTP B-team and may only finish the current week on their NLTP A-team. 
+  * (4) Active NLTP players that are called up with Dual Eligibility or loaned to a Majors or Minors team will be eligible to play in NLTP and will be subject to normal NLTP eligibility rules and restrictions.
+
 ##### *Section III - Loans Within NLTP*
 * (a) If a team cannot fill a full roster for a week’s game, they may elect to loan a player from another team. 
 * (b) All loans must be approved by a member of the NLTP CRC before the player plays.
