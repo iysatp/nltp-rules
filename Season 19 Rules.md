@@ -513,7 +513,7 @@ Game | Map | Team 1 Color | Team 2 Color
 * (i) NLTP B-team matches are encouraged to take place on Wednesday evenings.
 * (j) Point deduction, server agreement, rescheduling, and all other rules that apply to NLTP A-team also apply to NLTP B-team.
 * (k) If a team's regular A-team player is unavailable for a week and is replaced by a B-team player, that B-team player will be eligible to play on both A-team and B-team for that week.
- * (1) If the regular A-team player plays on B-team that week, the B-team sub is not eligible to play B-Team. Dual eligibility will not be allowed during week 1.
+  * (1) If the regular A-team player plays on B-team that week, the B-team sub is not eligible to play B-Team. Dual eligibility will not be allowed during week 1.
 
 ## Article XII - Appendix
 * (a) Teams are subject to punishment if their players or captains partake in any of the following: violation of the DBAD rule, spam on Discord, spam on Reddit, or any other action that break the NLTP rules.  
