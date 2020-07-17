@@ -49,8 +49,6 @@
   - [*Section I - General*](#section-i---general)
 - [Article XII - Appendix](#article-xii---appendix)
 
-
-
 ###### *Definitions*
 * *Half* = 10 minutes of an NLTP Game.
 * *Game* = 20 minutes (two halves) of a weekly NLTP Matchup.
