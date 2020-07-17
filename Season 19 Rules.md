@@ -1,3 +1,56 @@
+## Table of Contents
+
+- [Article I - League & Team Structure](#article-i---league--team-structure)
+  - [*Section I - League Basics*](#section-i---league-basics)
+  - [*Section II - Team Structure*](#section-ii---team-structure)
+  - [*Section III - Maps*](#section-iii---maps)
+  - [*Section IV - Schedule*](#section-iv---schedule)
+  - [*Section V - Games*](#section-v---games)
+  - [*Section VI - Rosters*](#section-vi---rosters)
+- [Article II - Roster Changes](#article-ii---roster-changes)
+  - [*Section I - Trades*](#section-i---trades)
+  - [*Section II - Free Agency Pickups*](#section-ii---free-agency-pickups)
+  - [*Section III - Loans Within NLTP*](#section-iii---loans-within-nltp)
+  - [*Section IV - Drops*](#section-iv---drops)
+  - [*Section V - Removal From Captaincy*](#section-v---removal-from-captaincy)
+- [Article III - Draft](#article-iii---draft)
+  - [*Section I - General Draft Information*](#section-i---general-draft-information)
+  - [*Section II - Auction Draft*](#section-ii---auction-draft)
+  - [*Section III - Snake Draft*](#section-iii---snake-draft)
+  - [*Section IV - Eligibility*](#section-iv---eligibility)
+  - [*Section V - Dual Eligibility*](#section-v---dual-eligibility)
+- [Article IV - Matches](#article-iv---matches)
+  - [*Section I - Match Scheduling*](#section-i---match-scheduling)
+  - [*Section II - Match Server Logistics*](#section-ii---match-server-logistics)
+  - [*Section III - Match Rules*](#section-iii---match-rules)
+  - [*Section IV - Overtime*](#section-iv---overtime)
+  - [*Article V - Substitutions & Timeouts*](#article-v---substitutions--timeouts)
+- [Article VI - Cheating](#article-vi---cheating)
+  - [*Section I - Cheating*](#section-i---cheating)
+  - [*Section II - Approved (Legal) Scripts*](#section-ii---approved-legal-scripts)
+  - [*Section III - Prohibited (Illegal) Scripts*](#section-iii---prohibited-illegal-scripts)
+- [Article VII - Etiquette](#article-vii---etiquette)
+  - [*Section I - Etiquette*](#section-i---etiquette)
+  - [*Section II - In-game communication*](#section-ii---in-game-communication)
+  - [*Section III - Manipulation*](#section-iii---manipulation)
+- [Article VIII - Playoffs](#article-viii---playoffs)
+  - [*Section I - Teams and Seeding*](#section-i---teams-and-seeding)
+- [Section II - Tiebreakers](#section-ii---tiebreakers)
+  - [*Section III - Maps*](#section-iii---maps)
+  - [*Section IV - Playoff Rounds and Match Structure*](#section-iv---playoff-rounds-and-match-structure)
+  - [*Section V - Eligibility Requirements*](#section-v---eligibility-requirements)
+- [Article IX - Statistics](#article-ix---statistics)
+  - [*Section I - TagPro Analytics and TagPro League (TPL)*](#section-i---tagpro-analytics-and-tagpro-league-tpl)
+- [Article X - Votes & Rule Changes](#article-x---votes--rule-changes)
+  - [*Section I - Votes*](#section-i---votes)
+  - [*Section II - Rule Changes*](#section-ii---rule-changes)
+  - [*Section III - Vote of No-Confidence*](#section-iii---vote-of-no-confidence)
+- [Article XI - NLTP B-Team](#article-xi---nltp-b-team)
+  - [*Section I - General*](#section-i---general)
+- [Article XII - Appendix](#article-xii---appendix)
+
+
+
 ###### *Definitions*
 * *Half* = 10 minutes of an NLTP Game.
 * *Game* = 20 minutes (two halves) of a weekly NLTP Matchup.
@@ -16,8 +69,7 @@
 * (b) Each team shall have a co-captain, who will be selected by the captain after the draft. The co-captain will be responsible for all duties listed above in the event the captain is not available.
 * (c) Captains will be permitted to change their co-captain whenever they please.
 
-##### *Section III - Maps*
-* (a) Season 18 will feature 14 maps, to be voted on by the captains and community.
+##### *Section III - Maps** (a) Season 18 will feature 14 maps, to be voted on by the captains and community.
 * (b) Maps will be chosen by a series of votes prior to week 1.
 * (c) Each week of the regular season teams will play on two different maps in an A/B - C/D - E/F - ... format.
 * (d) B-team will play the first map in games 1 and 3. The B-team format will be AA/BB/AA, CC/DD/CC, etc.
