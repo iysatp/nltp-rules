@@ -30,6 +30,7 @@
   - [Section I - *Cheating*](#section-i---cheating) 
   - [Section II - *Approved (Legal) Scripts*](#section-ii---approved-legal-scripts) 
   - [Section III - *Prohibited (Illegal) Scripts*](#section-iii---prohibited-illegal-scripts) 
+  - [Section IV - *Whistleblowing*(#section-iv-whistleblowing)
 - [Article VII - *Etiquette*](#article-vii---etiquette) 
   - [Section I - *General*](#section-i---general) 
   - [Section II - *In-game communication*](#section-ii---in-game-communication) 
@@ -346,6 +347,12 @@
 * (a) All scripts not found in the "no scripts" group option.
 * (b) Bomb/boost/powerup timers are strictly prohibited.
 * (c) Bots are strictly prohibited.
+
+#### *Section IV - Whistleblowing*
+* (a) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC or message an individual CRC member. If requested, commissioners will not disclose the name of the whistleblower.
+* (b) Any person who has proof or suspects all CRC members of cheating in any way should send a detailed message to any/all NLTP captains.
+* (c) Accusations of cheating are prohibited in any public setting.
+* (d) All throwaway posts made for whistleblowing on /r/NLTP will be deleted.
 
 ## Article VII - Etiquette
 ##### *Section I - General*
