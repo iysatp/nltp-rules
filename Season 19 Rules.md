@@ -30,7 +30,7 @@
   - [Section I - *Cheating*](#section-i---cheating) 
   - [Section II - *Approved (Legal) Scripts*](#section-ii---approved-legal-scripts) 
   - [Section III - *Prohibited (Illegal) Scripts*](#section-iii---prohibited-illegal-scripts) 
-  - [Section IV - *Whistleblowing*(#section-iv-whistleblowing)
+  - [Section IV - *Whistleblowing*](#section-iv-whistleblowing)
 - [Article VII - *Etiquette*](#article-vii---etiquette) 
   - [Section I - *General*](#section-i---general) 
   - [Section II - *In-game communication*](#section-ii---in-game-communication) 
